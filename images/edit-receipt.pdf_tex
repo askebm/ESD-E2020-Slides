@@ -1,0 +1,90 @@
+%% Creator: Inkscape 1.0.1 (3bc2e813f5, 2020-09-07), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'edit-receipt.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{593.2499738bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.52033023)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{edit-receipt.pdf}}%
+    \put(0.69532238,0.37168143){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Press Receipt L...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{edit-receipt.pdf}}%
+    \put(0.69532238,0.33375475){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Update Layout\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{edit-receipt.pdf}}%
+    \put(0.69532238,0.28318585){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Press Edit\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{edit-receipt.pdf}}%
+    \put(0.69532238,0.24525918){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Update Layout\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{edit-receipt.pdf}}%
+    \put(0.69532238,0.18078383){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}New Amount\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{edit-receipt.pdf}}%
+    \put(0.69532238,0.14412137){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Update Layout\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{edit-receipt.pdf}}%
+    \put(0.69532238,0.08091024){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Press Cancel Ed...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{edit-receipt.pdf}}%
+    \put(0.69532238,0.04298357){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Update Layout\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{edit-receipt.pdf}}%
+    \put(0.94563845,0.15423515){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}E1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{edit-receipt.pdf}}%
+    \put(0.94563845,0.05309735){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}E2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{edit-receipt.pdf}}%
+    \put(0.06953224,0.45269432){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}StationBox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{edit-receipt.pdf}}%
+    \put(0.48672568,0.45269432){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}:CashierTouchDisplayTask\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{edit-receipt.pdf}}%
+    \put(0.90391912,0.45269432){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}:TouchDisplayBackend\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{edit-receipt.pdf}}%
+    \put(0.67003795,0.47797877){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Transaction\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{edit-receipt.pdf}}%
+    \put(0.68900129,0.45269432){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Card Transaction\end{tabular}}}}%
+    \put(0.67003795,0.42740987){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Edit Reciept\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{edit-receipt.pdf}}%
+    \put(0.68268017,0.50326322){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}No Transaction\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

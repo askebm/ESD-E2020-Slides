@@ -1,0 +1,91 @@
+%% Creator: Inkscape 1.0.1 (3bc2e813f5, 2020-09-07), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'scan-age.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{593.24998191bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.4752817)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{scan-age.pdf}}%
+    \put(0.27812893,0.29584448){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Scan\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{scan-age.pdf}}%
+    \put(0.69532236,0.27056003){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Update Layout\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{scan-age.pdf}}%
+    \put(0.27812893,0.19091401){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Verify Age\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{scan-age.pdf}}%
+    \put(0.69532236,0.16942223){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Update layout\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{scan-age.pdf}}%
+    \put(0.69532236,0.13149555){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Ok\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{scan-age.pdf}}%
+    \put(0.27812893,0.11885332){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Verify Age,True\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{scan-age.pdf}}%
+    \put(0.69532236,0.0556422){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Cancel\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{scan-age.pdf}}%
+    \put(0.27812893,0.03035775){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Verify Age,False\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{scan-age.pdf}}%
+    \put(0.94563842,0.11632488){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}E1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{scan-age.pdf}}%
+    \put(0.94563842,0.04047153){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}E2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{scan-age.pdf}}%
+    \put(0.06953224,0.40764584){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}StationBox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{scan-age.pdf}}%
+    \put(0.48672567,0.40764584){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}:CashierTouchDisplayTask\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{scan-age.pdf}}%
+    \put(0.9039191,0.40764584){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}:TouchDisplayBackend\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{scan-age.pdf}}%
+    \put(0.67003794,0.43293029){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Transaction\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{scan-age.pdf}}%
+    \put(0.68900127,0.40764584){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Card Transaction\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{scan-age.pdf}}%
+    \put(0.67003794,0.38236139){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Edit Reciept\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{scan-age.pdf}}%
+    \put(0.68268016,0.45821474){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}No Transaction\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

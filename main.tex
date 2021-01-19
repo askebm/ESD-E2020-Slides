@@ -25,6 +25,7 @@
 \usepackage[english]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{listings}
+\usepackage{import}
 % Or whatever. Note that the encoding and the font should match. If T1
 % does not look nice, try deleting the line with the fontenc.
 \usepackage{helvet}
@@ -84,10 +85,101 @@
 
 % TOC
 \begin{frame}{Agenda}{\vphantom{(y}}
-\tableofcontents
+	\begin{itemize}
+		\item System overview
+		\item Use Case
+		\item Class Diagram
+		\item Interaction
+		\item Final Remarks
+	\end{itemize}
 \end{frame}
 %%%%%%%%%%%%%%%
 
+\begin{frame}[t]
+	\frametitle{System overview}
 
+	\begin{figure}[h]
+		\centering
+		\scalebox{0.45}{
+		\import{images}{system.pdf_tex}
+	}
+	\end{figure}
+	
+\end{frame}
+
+\begin{frame}[t]
+	\frametitle{Use Case}
+	\begin{figure}[h]
+		\centering
+		\scalebox{0.6}{
+		\import{images}{Cashier-use-case.pdf_tex}
+	}
+	\end{figure}
+	
+\end{frame}
+
+\begin{frame}[t]
+	\frametitle{Class diagram}
+	\vspace{-0.45cm}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=\textwidth]{images/class-diagram.pdf}
+	\end{figure}
+\end{frame}
+
+\begin{frame}[t]
+	\frametitle{Sequence Diagram}
+	\vspace{1cm}
+	\begin{figure}[h]
+		\centering
+		\scalebox{0.6}{
+		\import{images}{Cashier-start-trans.pdf_tex}
+	}
+	\end{figure}
+\end{frame}
+
+\begin{frame}[t]
+	\frametitle{Sequence Diagram}
+	\begin{figure}[h]
+		\centering
+		\scalebox{0.6}{
+		\import{images}{Cashier-card-trans.pdf_tex}
+	}
+	\end{figure}
+	
+\end{frame}
+
+\begin{frame}[t]
+	\frametitle{Sequence Diagram}
+
+	\begin{figure}[h]
+		\centering
+		\scalebox{0.6}{
+		\import{images}{edit-receipt.pdf_tex}
+	}
+	\end{figure}
+	
+\end{frame}
+
+\begin{frame}[t]
+	\frametitle{Sequence Diagram}
+	\begin{figure}[h]
+		\centering
+		\scalebox{0.6}{
+		\import{images}{scan-age.pdf_tex}
+	}
+	\end{figure}
+	
+\end{frame}
+
+\begin{frame}[t]
+	\frametitle{Final Remarks}
+
+	\begin{itemize}
+		\item Backend
+		\item Refactoring
+	\end{itemize}
+	
+\end{frame}
 
 \end{document}

@@ -1,0 +1,86 @@
+%% Creator: Inkscape 1.0.1 (3bc2e813f5, 2020-09-07), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'system.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{476.07248926bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.85168814)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{system.pdf}}%
+    \put(0.77572692,0.41153108){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Customer display\end{tabular}}}}%
+    \put(0.81539355,0.38632489){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2 line lcd\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{system.pdf}}%
+    \put(0.79906167,0.2656706){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}COA display\end{tabular}}}}%
+    \put(0.79497584,0.24046441){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}7” LCD touch\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{system.pdf}}%
+    \put(0.08538643,0.55703488){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Card reader\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{system.pdf}}%
+    \put(0.05504438,0.41135268){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Customer numpad\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{system.pdf}}%
+    \put(0.07837913,0.2656706){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}COA numpad\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{system.pdf}}%
+    \put(0.06203654,0.11998861){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Barcode scanner\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{system.pdf}}%
+    \put(0.44658899,0.33853982){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Station box\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{system.pdf}}%
+    \put(0.44543047,0.80597614){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Central box\end{tabular}}}}%
+    \put(0.44892656,0.78076994){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(database)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{system.pdf}}%
+    \put(0.09006154,0.80597614){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Credit card\end{tabular}}}}%
+    \put(0.06496873,0.78076994){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}payment service\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{system.pdf}}%
+    \put(0.01496587,0.6602615){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Example station\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{system.pdf}}%
+    \put(0.81715743,0.79337304){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Terminal\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{system.pdf}}%
+    \put(0.78855782,0.54475562){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Receipt printer\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{system.pdf}}%
+  \end{picture}%
+\endgroup%

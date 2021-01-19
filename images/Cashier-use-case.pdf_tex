@@ -1,0 +1,101 @@
+%% Creator: Inkscape 1.0.1 (3bc2e813f5, 2020-09-07), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Cashier-use-case.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{689.625bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.40184883)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0.64219685,0.37955411){\color[rgb]{0.93333333,0.93333333,0.93333333}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}UNREGISTERED\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{Cashier-use-case.pdf}}%
+    \put(0.46813188,0.17346384){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Cashier}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{Cashier-use-case.pdf}}%
+    \put(0.3070681,0.30560087){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Register Item}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{Cashier-use-case.pdf}}%
+    \put(0.57358948,0.10549212){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Receive returned item}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{Cashier-use-case.pdf}}%
+    \put(0.28766085,0.10549212){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Make transaction}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{Cashier-use-case.pdf}}%
+    \put(0.02699247,0.10549212){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Give receipt}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{Cashier-use-case.pdf}}%
+    \put(0.26247865,0.01848831){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Payment}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{Cashier-use-case.pdf}}%
+    \put(0.16204459,0.12669929){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}«extend»\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{Cashier-use-case.pdf}}%
+    \put(0.33061446,0.06579663){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}«include»\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{Cashier-use-case.pdf}}%
+    \put(0.29501215,0.37520392){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Verfiy Customer}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{Cashier-use-case.pdf}}%
+    \put(0.6883292,0.27079935){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Asked for special item}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{Cashier-use-case.pdf}}%
+    \put(0.70994368,0.37520392){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Restricted Item}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{Cashier-use-case.pdf}}%
+    \put(0.49918434,0.38662316){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}«include»\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{Cashier-use-case.pdf}}%
+    \put(0.7656335,0.32463295){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}«extend»\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{Cashier-use-case.pdf}}%
+    \put(0.51332246,0.3278956){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}«extend»\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{Cashier-use-case.pdf}}%
+    \put(0.09913543,0.01848831){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{by Cash}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{Cashier-use-case.pdf}}%
+    \put(0.42995753,0.01848831){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{by Creditcard}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{Cashier-use-case.pdf}}%
+    \put(0.8744249,0.10549212){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Obtain receipt}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{Cashier-use-case.pdf}}%
+    \put(0.76889614,0.10821098){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}«include»\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{Cashier-use-case.pdf}}%
+    \put(0.2327466,0.21859706){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Receipt history}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{Cashier-use-case.pdf}}%
+    \put(0.45241979,0.11799891){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}«include»\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{Cashier-use-case.pdf}}%
+    \put(0.65305506,0.20989668){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Edit receipt}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{Cashier-use-case.pdf}}%
+  \end{picture}%
+\endgroup%

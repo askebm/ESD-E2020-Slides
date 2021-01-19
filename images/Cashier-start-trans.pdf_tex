@@ -1,0 +1,95 @@
+%% Creator: Inkscape 1.0.1 (3bc2e813f5, 2020-09-07), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Cashier-start-trans.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{667.87499771bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.36552499)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{Cashier-start-trans.pdf}}%
+    \put(0.06176305,0.30544638){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}StationBox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{Cashier-start-trans.pdf}}%
+    \put(0.43234137,0.30544638){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}:CashierTouchDisplayTask\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{Cashier-start-trans.pdf}}%
+    \put(0.8029197,0.30544638){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}:TouchDisplayBackend\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{Cashier-start-trans.pdf}}%
+    \put(0.24705221,0.20550253){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Start, Receipt\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{Cashier-start-trans.pdf}}%
+    \put(0.61763053,0.24592926){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Press Start\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{Cashier-start-trans.pdf}}%
+    \put(0.24592925,0.23694554){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Start\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{Cashier-start-trans.pdf}}%
+    \put(0.61763053,0.19314992){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Update Layout\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{Cashier-start-trans.pdf}}%
+    \put(0.24705221,0.15047726){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Scan\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{Cashier-start-trans.pdf}}%
+    \put(0.61763053,0.13924762){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Update Layout\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{Cashier-start-trans.pdf}}%
+    \put(0.61763053,0.09432903){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Press Cancel\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{Cashier-start-trans.pdf}}%
+    \put(0.24705221,0.08309939){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Cancel\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{Cashier-start-trans.pdf}}%
+    \put(0.24705221,0.04941045){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Cancel\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{Cashier-start-trans.pdf}}%
+    \put(0.61763053,0.0381808){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Update Layout\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{Cashier-start-trans.pdf}}%
+    \put(0.59517124,0.32790567){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Transaction\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{Cashier-start-trans.pdf}}%
+    \put(0.61201571,0.30544638){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Card Transaction\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{Cashier-start-trans.pdf}}%
+    \put(0.59517124,0.28298709){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Edit Reciept\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{Cashier-start-trans.pdf}}%
+    \put(0.60640089,0.35036497){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}No Transaction\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{Cashier-start-trans.pdf}}%
+    \put(0.93767545,0.24368333){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Optionally start t...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{Cashier-start-trans.pdf}}%
+    \put(0.93767545,0.08646828){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Optionally cancel...\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
