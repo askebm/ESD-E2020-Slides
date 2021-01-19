@@ -1,0 +1,3 @@
+[submodule "BeamerSDU"]
+	path = BeamerSDU
+	url = https://github.com/askebm/BeamerSDU.git
